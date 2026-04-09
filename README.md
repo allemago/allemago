@@ -7,8 +7,7 @@
 
 Mon parcours a commencé dans le secteur aérien, où j’ai évolué plusieurs années dans des environnements exigeants.  
 
-J’ai ensuite choisi de m’orienter vers la cybersécurité en rejoignant l’École 42, avec l’envie de comprendre en profondeur le fonctionnement des systèmes et d’en analyser les failles.  
-J’y développe aujourd’hui des compétences en sécurité offensive, notamment autour du web et des environnements systèmes.  
+J’ai ensuite choisi de m’orienter vers la cybersécurité en rejoignant l’École 42, avec l’envie de comprendre en profondeur le fonctionnement des systèmes et d’en analyser les failles[...]J’y développe aujourd’hui des compétences en sécurité offensive, notamment autour du web et des environnements systèmes.  
 
 Je recherche une alternance ou un stage en cybersécurité pour continuer à progresser et travailler sur des problématiques concrètes.
 
@@ -38,6 +37,21 @@ Je recherche une alternance ou un stage en cybersécurité pour continuer à pro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
+
+---
+
+## Projets — Réels (dépôts GitHub)
+
+> Sélection de dépôts publics (ou principaux) disponibles sur mon GitHub.
+
+- **Portfolio / site** : [allemago.github.io](https://github.com/allemago/allemago.github.io)
+- **Piscine Cybersécurité (42)** : [cybersecurity_piscine](https://github.com/allemago/cybersecurity_piscine)
+- **Piscine Python Data Science** : [python_data_science_piscine](https://github.com/allemago/python_data_science_piscine)
+- **Inception (Docker / infra)** : [Inception](https://github.com/allemago/Inception)
+- **ft_transcendence (web full-stack)** : [ft_transcendence](https://github.com/allemago/ft_transcendence)
+- **ft_irc (réseau)** : [ft_irc](https://github.com/allemago/ft_irc)
+- **Minishell (systèmes)** : [Minishell](https://github.com/allemago/Minishell)
+- **CPP (modules C++)** : [CPP](https://github.com/allemago/CPP)
 
 ---
 
