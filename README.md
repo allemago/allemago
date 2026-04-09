@@ -46,14 +46,14 @@ Je recherche une alternance ou un stage en cybersécurité pour continuer à pro
 
 | Projet | Description |
 |---|---|
-| [**cyber_arachnida**](https://github.com/allemago/cybersecurity_piscine)<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
-| [**cyber_ft_otp**](https://github.com/allemago/cybersecurity_piscine)<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
-| [**cyber_ft_onion**](https://github.com/allemago/cybersecurity_piscine)<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
-| [**cyber_reverse_me**](https://github.com/allemago/cybersecurity_piscine)<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
-| [**cyber_stockholm**](https://github.com/allemago/cybersecurity_piscine)<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
-| [**cyber_iron_dome**](https://github.com/allemago/cybersecurity_piscine)<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
-| [**cyber_inquisitor**](https://github.com/allemago/cybersecurity_piscine)<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
-| [**cyber_vaccine**](https://github.com/allemago/cybersecurity_piscine)<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
+| [**arachnida**](https://github.com/allemago/cybersecurity_piscine)<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
+| [**ft_otp**](https://github.com/allemago/cybersecurity_piscine)<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
+| [**ft_onion**](https://github.com/allemago/cybersecurity_piscine)<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
+| [**reverse_me**](https://github.com/allemago/cybersecurity_piscine)<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
+| [**stockholm**](https://github.com/allemago/cybersecurity_piscine)<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
+| [**iron_dome**](https://github.com/allemago/cybersecurity_piscine)<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
+| [**inquisitor**](https://github.com/allemago/cybersecurity_piscine)<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
+| [**vaccine**](https://github.com/allemago/cybersecurity_piscine)<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
 
 ---
 
