@@ -40,35 +40,20 @@ Je recherche une alternance ou un stage en cybersécurité pour continuer à pro
 
 ---
 
-## Projets — Réels (dépôts GitHub)
-
-> Sélection de dépôts publics (ou principaux) disponibles sur mon GitHub.
-
-- **Portfolio / site** : [allemago.github.io](https://github.com/allemago/allemago.github.io)
-- **Piscine Cybersécurité (42)** : [cybersecurity_piscine](https://github.com/allemago/cybersecurity_piscine)
-- **Piscine Python Data Science** : [python_data_science_piscine](https://github.com/allemago/python_data_science_piscine)
-- **Inception (Docker / infra)** : [Inception](https://github.com/allemago/Inception)
-- **ft_transcendence (web full-stack)** : [ft_transcendence](https://github.com/allemago/ft_transcendence)
-- **ft_irc (réseau)** : [ft_irc](https://github.com/allemago/ft_irc)
-- **Minishell (systèmes)** : [Minishell](https://github.com/allemago/Minishell)
-- **CPP (modules C++)** : [CPP](https://github.com/allemago/CPP)
-
----
-
 ## Projets — Piscine Cybersécurité 42
 
-> Les dépôts ci-dessous sont issus de la piscine cybersécurité de l'École 42.
+> Les projets ci-dessous sont issus de la piscine cybersécurité de l'École 42.
 
 | Projet | Description |
 |---|---|
-| **cyber_arachnida**<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
-| **cyber_ft_otp**<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
-| **cyber_ft_onion**<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
-| **cyber_reverse_me**<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
-| **cyber_stockholm**<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
-| **cyber_iron_dome**<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
-| **cyber_inquisitor**<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
-| **cyber_vaccine**<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
+| [**cyber_arachnida**](https://github.com/allemago/cybersecurity_piscine)<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
+| [**cyber_ft_otp**](https://github.com/allemago/cybersecurity_piscine)<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
+| [**cyber_ft_onion**](https://github.com/allemago/cybersecurity_piscine)<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
+| [**cyber_reverse_me**](https://github.com/allemago/cybersecurity_piscine)<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
+| [**cyber_stockholm**](https://github.com/allemago/cybersecurity_piscine)<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
+| [**cyber_iron_dome**](https://github.com/allemago/cybersecurity_piscine)<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
+| [**cyber_inquisitor**](https://github.com/allemago/cybersecurity_piscine)<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
+| [**cyber_vaccine**](https://github.com/allemago/cybersecurity_piscine)<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
 
 ---
 
