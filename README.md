@@ -47,14 +47,14 @@ Je recherche une alternance en cybersécurité pour continuer à progresser et t
 
 | Projet | Description |
 |---|---|
-| 🕷️ **cyber_arachnida** | Crawler d'images récursif et lecteur de métadonnées EXIF |
-| 🔐 **cyber_ft_otp** | Implémentation TOTP avec stockage chiffré de la clé |
-| 🧅 **cyber_ft_onion** | Service caché Tor avec accès SSH, orchestré via Docker Compose |
-| 🧠 **cyber_reverse_me** | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
-| 🐚 **cyber_stockholm** | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
-| 🛡️ **cyber_iron_dome** | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
-| 🎣 **cyber_inquisitor** | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
-| 💉 **cyber_vaccine** | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
+| **cyber_arachnida**<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
+| **cyber_ft_otp**<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
+| **cyber_ft_onion**<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
+| **cyber_reverse_me**<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
+| **cyber_stockholm**<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
+| **cyber_iron_dome**<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
+| **cyber_inquisitor**<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
+| **cyber_vaccine**<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
 
 ---
 
