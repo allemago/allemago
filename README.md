@@ -10,7 +10,7 @@ Mon parcours a commencé dans le secteur aérien, où j’ai évolué plusieurs 
 J’ai ensuite choisi de m’orienter vers la cybersécurité en rejoignant l’École 42, avec l’envie de comprendre en profondeur le fonctionnement des systèmes et d’en analyser les failles.  
 J’y développe aujourd’hui des compétences en sécurité offensive, notamment autour du web et des environnements systèmes.  
 
-Je recherche une alternance en cybersécurité pour continuer à progresser et travailler sur des problématiques concrètes.
+Je recherche une alternance ou un stage en cybersécurité pour continuer à progresser et travailler sur des problématiques concrètes.
 
 ---
 
