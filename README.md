@@ -1,4 +1,4 @@
-# Étudiante en cybersécurité à l'École 42 Paris
+# Maëlle G. - Étudiante en cybersécurité à l'École 42 Paris
 
 ---
 
