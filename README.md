@@ -1,5 +1,4 @@
 # Étudiante en cybersécurité à l'École 42 Paris
-## Spécialisation sécurité offensive
 
 ---
 
