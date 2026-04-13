@@ -1,63 +1,65 @@
-# Maëlle G. - Étudiante en cybersécurité à l'École 42 Paris
+# Cybersecurity Student at 42 Paris
 
 ---
 
-## À propos
+## About
 
-Mon parcours a commencé dans le secteur aérien, où j’ai évolué plusieurs années dans des environnements exigeants.  
+Hello, I'm Maelle.
 
-J’ai ensuite choisi de m’orienter vers la cybersécurité en rejoignant l’École 42, avec l’envie de comprendre en profondeur le fonctionnement des systèmes et d’en analyser les failles.  
-J’y développe aujourd’hui des compétences en sécurité offensive, notamment autour du web et des environnements systèmes.  
+My background began in the aviation industry, where I spent several years working in demanding environments.  
 
-Je recherche une alternance ou un stage en cybersécurité pour continuer à progresser et travailler sur des problématiques concrètes.
+I then decided to transition into cybersecurity by joining 42 Paris, driven by a desire to deeply understand how systems work and to analyze their vulnerabilities.  
+I am currently developing skills in offensive security, with a focus on web and system environments.  
+
+I am looking for an apprenticeship or internship in cybersecurity to continue improving and to work on real-world challenges.
 
 ---
 
-## Compétences techniques
+## Technical Skills
 
-**Langages**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Sécurité offensive**
+**Offensive Security**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A8B9CC?style=flat&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)  
+![GDB](https://img.shields.io/badge/GDB-A8B9CC?style=flat&logoColor=black)  
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
 
-**Infrastructure & systèmes**
+**Infrastructure & Systems**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)  
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
 
 ---
 
-## Projets — Piscine Cybersécurité 42
+## Projects — 42 Cybersecurity Piscine
 
-> Les projets ci-dessous sont issus de la piscine cybersécurité de l'École 42.
+> The following projects were completed during the 42 cybersecurity bootcamp.
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| [**arachnida**](https://github.com/allemago/cybersecurity_piscine)<br>(crawler) | Crawler d'images récursif et lecteur de métadonnées EXIF |
-| [**ft_otp**](https://github.com/allemago/cybersecurity_piscine)<br>(OTP) | Implémentation TOTP avec stockage chiffré de la clé |
-| [**ft_onion**](https://github.com/allemago/cybersecurity_piscine)<br>(Tor) | Service caché Tor avec accès SSH, orchestré via Docker Compose |
-| [**reverse_me**](https://github.com/allemago/cybersecurity_piscine)<br>(reverse) | Reverse engineering de trois binaires sans code source (analyse statique & dynamique) |
-| [**stockholm**](https://github.com/allemago/cybersecurity_piscine)<br>(ransomware) | Simulation éducative de ransomware avec chiffrement/déchiffrement de fichiers |
-| [**iron_dome**](https://github.com/allemago/cybersecurity_piscine)<br>(détection) | Daemon Linux de détection comportementale de ransomware (inotify, entropie) |
-| [**inquisitor**](https://github.com/allemago/cybersecurity_piscine)<br>(MITM) | ARP spoofing & attaque Man-in-the-Middle avec interception FTP en temps réel |
-| [**vaccine**](https://github.com/allemago/cybersecurity_piscine)<br>(SQLi) | Scanner d'injection SQL avec fingerprinting du moteur de base de données et extraction |
+| [**arachnida**](https://github.com/allemago/cybersecurity_piscine)<br>(crawler) | Recursive image crawler with EXIF metadata extraction |
+| [**ft_otp**](https://github.com/allemago/cybersecurity_piscine)<br>(OTP) | TOTP implementation with encrypted key storage |
+| [**ft_onion**](https://github.com/allemago/cybersecurity_piscine)<br>(Tor) | Tor hidden service with SSH access, orchestrated using Docker Compose |
+| [**reverse_me**](https://github.com/allemago/cybersecurity_piscine)<br>(reverse) | Reverse engineering of three binaries without source code (static & dynamic analysis) |
+| [**stockholm**](https://github.com/allemago/cybersecurity_piscine)<br>(ransomware) | Educational ransomware simulation with file encryption/decryption |
+| [**iron_dome**](https://github.com/allemago/cybersecurity_piscine)<br>(detection) | Linux daemon for behavioral ransomware detection (inotify, entropy analysis) |
+| [**inquisitor**](https://github.com/allemago/cybersecurity_piscine)<br>(MITM) | ARP spoofing & Man-in-the-Middle attack with real-time FTP interception |
+| [**vaccine**](https://github.com/allemago/cybersecurity_piscine)<br>(SQLi) | SQL injection scanner with database fingerprinting and data extraction |
 
 ---
 
-## Pratique
+## Practice
 
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 
