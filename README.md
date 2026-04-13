@@ -4,7 +4,7 @@
 
 ## About
 
-Hello, I'm Maelle.
+Hello, I'm Maëlle.
 
 My background began in the aviation industry, where I spent several years working in demanding environments.  
 
