@@ -27,7 +27,7 @@
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗹𝗶𝗻𝘂𝘅</b> — Build a minimal Linux distribution from scratch</summary>
 <br>
 
-Compiled a custom Linux kernel (>= 4.0), set up a compliant filesystem hierarchy, configured partitioning (root/boot/swap), bootloader (GRUB), init system (SysV/SystemD), and udev, with working network access.
+Built a fully functional Linux distribution from scratch — compiled the kernel, configured the bootloader, filesystem, and init system by hand. A deep dive into how an OS actually boots and runs, from bare metal to a working shell.
 
 </details>
 
@@ -37,7 +37,7 @@ Compiled a custom Linux kernel (>= 4.0), set up a compliant filesystem hierarchy
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗥𝗮𝗶𝗻𝗳𝗮𝗹𝗹</b> — Binary exploitation (i386 ELF)</summary>
 <br>
 
-Binary exploitation training on i386 ELF binaries. Solved 10 progressive privilege-escalation levels (level0 to level9) by analyzing and exploiting vulnerable SUID binaries via SSH on a dedicated VM.
+10 progressive binary exploitation challenges on real vulnerable SUID binaries (i386 ELF). Escalated privileges level by level through static/dynamic analysis, stack-based exploitation, and shellcoding — hands-on binary security from the ground up.
 
 </details>
 
@@ -47,7 +47,7 @@ Binary exploitation training on i386 ELF binaries. Solved 10 progressive privile
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗕𝗼𝗼𝘁𝟮𝗿𝗼𝗼𝘁</b> — Offensive security CTF</summary>
 <br>
 
-CTF-style exercise: gained root access on a target server using two independent exploitation methods, each documented with a full technical write-up.
+Full offensive security exercise: compromised a target machine end-to-end using two independent attack paths, each documented in a professional technical write-up — from reconnaissance to root access.
 
 </details>
 
@@ -57,7 +57,7 @@ CTF-style exercise: gained root access on a target server using two independent 
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗢𝘃𝗲𝗿𝗥𝗶𝗱𝗲</b> — Advanced binary exploitation (i386 ELF)</summary>
 <br>
 
-Advanced sequel to Rainfall. Solved 9 progressive levels (level00 to level08) through static/dynamic analysis and exploitation of vulnerable binaries.
+Advanced continuation of Rainfall: 9 additional exploitation levels on i386 ELF binaries, tackling more complex protections (stack canaries, GOT overwrites) through in-depth reverse engineering and exploit development.
 
 </details>
 
@@ -67,7 +67,7 @@ Advanced sequel to Rainfall. Solved 9 progressive levels (level00 to level08) th
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝘀𝘁𝗼𝗰𝗸𝗵𝗼𝗹𝗺</b> <code>[cybersecurity piscine]</code> — Ransomware simulation</summary>
 <br>
 
-Educational ransomware simulation demonstrating file encryption/decryption mechanics for security awareness purposes.
+Built an educational ransomware simulation to study file encryption/decryption mechanics from the attacker's side — used to better understand what defenders are actually up against.
 
 </details>
 
@@ -77,7 +77,7 @@ Educational ransomware simulation demonstrating file encryption/decryption mecha
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗶𝗿𝗼𝗻_𝗱𝗼𝗺𝗲</b> <code>[cybersecurity piscine]</code> — Ransomware behavioral detection</summary>
 <br>
 
-Linux daemon performing behavioral ransomware detection via filesystem monitoring (inotify) and entropy analysis of file changes.
+Designed a Linux daemon that detects ransomware-like behavior in real time, using filesystem monitoring (inotify) and entropy analysis to flag suspicious file changes before damage spreads.
 
 </details>
 
@@ -87,7 +87,7 @@ Linux daemon performing behavioral ransomware detection via filesystem monitorin
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗶𝗻𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝗿</b> <code>[cybersecurity piscine]</code> — ARP spoofing MITM</summary>
 <br>
 
-ARP spoofing based Man-in-the-Middle attack with real-time interception of FTP traffic.
+Executed a full ARP spoofing Man-in-the-Middle attack with live interception of FTP traffic — a practical demonstration of network-layer trust exploitation.
 
 </details>
 
@@ -97,7 +97,7 @@ ARP spoofing based Man-in-the-Middle attack with real-time interception of FTP t
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝘃𝗮𝗰𝗰𝗶𝗻𝗲</b> <code>[cybersecurity piscine]</code> — SQL injection scanner</summary>
 <br>
 
-SQL injection scanner with database fingerprinting and automated data extraction capabilities.
+Built a SQL injection scanner capable of database fingerprinting and automated data extraction — turning a manual pentest technique into a repeatable tool.
 
 </details>
 
@@ -107,7 +107,7 @@ SQL injection scanner with database fingerprinting and automated data extraction
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗮𝗿𝗮𝗰𝗵𝗻𝗶𝗱𝗮</b> <code>[cybersecurity piscine]</code> — Image crawler & EXIF extraction</summary>
 <br>
 
-Recursive image crawler that scrapes websites/directories for images and extracts EXIF metadata (geolocation, device info, timestamps).
+Built a recursive web/image crawler that automatically harvests images from a target and extracts hidden EXIF metadata — geolocation, device fingerprints, timestamps — showing how much data casual uploads can leak.
 
 </details>
 
@@ -117,7 +117,7 @@ Recursive image crawler that scrapes websites/directories for images and extract
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗼𝘁𝗽</b> <code>[cybersecurity piscine]</code> — TOTP generator</summary>
 <br>
 
-TOTP (Time-based One-Time Password) generator implementation with secure, encrypted storage of the secret key.
+Implemented a TOTP authenticator from scratch, with secure encrypted storage of the secret key — the same mechanism behind Google Authenticator and similar 2FA apps.
 
 </details>
 
@@ -127,17 +127,7 @@ TOTP (Time-based One-Time Password) generator implementation with secure, encryp
 <summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗼𝗻𝗶𝗼𝗻</b> <code>[cybersecurity piscine]</code> — Tor hidden service</summary>
 <br>
 
-Tor hidden service exposing SSH access, fully orchestrated with Docker Compose for reproducible deployment.
-
-</details>
-
-<br>
-
-<details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-rounded.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗿𝗲𝘃𝗲𝗿𝘀𝗲_𝗺𝗲</b> <code>[cybersecurity piscine]</code> — Binary reverse engineering</summary>
-<br>
-
-Reverse engineering of three unknown binaries (no source code) using static analysis (disassembly) and dynamic analysis (debugging).
+Deployed a Tor hidden service exposing SSH access, fully containerized with Docker Compose — a practical exercise in anonymized infrastructure and reproducible deployment.
 
 </details>
 
