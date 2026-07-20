@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Ma%C3%ABlle+-+cybersecurity+student;root%40kali%3A~%23+cat+objective.txt;Looking+for+a+4-to-6-month+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+whoami;Ma%C3%ABlle+-+cybersecurity+student;maelle%40kali%3A~%23+cat+objective.txt;Looking+for+a+4-to-6-month+internship" alt="Typing SVG" />
 
 </div>
 
