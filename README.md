@@ -149,7 +149,7 @@ Deployed a Tor hidden service exposing SSH access, fully containerized with Dock
 
 <br>
 
-```bash
+```powershell
 ┌──(maelle㉿kali)-[~]
 └─$ cat skills.txt
 ```
@@ -174,7 +174,7 @@ Deployed a Tor hidden service exposing SSH access, fully containerized with Dock
 
 <br>
 
-```bash
+```powershell
 ┌──(maelle㉿kali)-[~]
 └─$ ./contact.sh
 ```
@@ -190,7 +190,7 @@ Deployed a Tor hidden service exposing SSH access, fully containerized with Dock
 
 <div align="center">
 
-```
+```powershell
 ┌──(maelle㉿kali)-[~]
 └─$ [######################] 100%
 Session closed.
