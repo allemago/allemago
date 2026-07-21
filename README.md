@@ -23,7 +23,7 @@
 
 <br>
 
-```bash
+```powershell
 ┌──(maelle㉿kali)-[~/projects]
 └─$ ls
 ```
