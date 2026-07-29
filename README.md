@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+cat+objective.txt;Looking+for+a+4-to-6-month+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+cat+objective.txt;Looking+for+a+4-to-6-month+internship+or+a+2-year+apprenticeship" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 └─$ whoami
 
 + Cybersecurity student at École 42 Paris.
-+ Currently looking for a 4-to-6-month internship,
++ Currently looking for a 4-to-6-month internship or a 2-year apprenticeship,
 + aiming to gain hands-on, real-world experience.
 ```
 
