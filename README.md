@@ -36,6 +36,16 @@
 <br>
 
 <details>
+<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗕𝗔𝗗𝗔𝗦𝗦</b> - BGP EVPN & VXLAN network simulation</summary>
+<br>
+
+Deployed custom Docker images in GNS3 to build a simulated data center network - configured VXLAN tunnels, then layered BGP EVPN with route reflection on top for dynamic VTEP discovery. A hands-on exploration of how modern data centers handle L2 extension over L3 networks.
+
+</details>
+
+<br>
+
+<details>
 <summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>Libasm</b> - Core libc functions reimplemented in x86_64 assembly</summary>
 <br>
 Reimplemented core C standard library functions (strlen, strcpy, strcmp, strdup) and system calls (read, write) directly in x86_64 assembly using NASM with Intel syntax, including proper syscall error handling and errno management.
