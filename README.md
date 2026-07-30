@@ -18,8 +18,12 @@
 └─$ whoami
 
 + Cybersecurity student at École 42 Paris.
-+ Currently looking for a 4-to-6-month internship or a 2-year apprenticeship,
-+ aiming to gain hands-on, real-world experience.
++
++ Currently looking for :
++ a 4-to-6-month internship
++ or a 2-year apprenticeship,
++
++ Aiming to gain hands-on, real-world experience.
 ```
 
 <br>
