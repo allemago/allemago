@@ -11,12 +11,8 @@
 └─$ whoami
 
 + Cybersecurity | Systems & Networks.
-+
-+ Seeking opportunities to contribute,
-+ solve technical challenges,
-+ and grow within a cybersecurity team.
-+
-+ Interested in offensive security,
+
++ Interested in cybersecurity,
 + system administration, and network security.
 ```
 
