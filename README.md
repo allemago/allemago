@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2400&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+whoami;Ma%C3%ABlle+-+cybersecurity+student" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2400&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+cat+objective.txt;Looking+for+a+4-to-6-month+internship" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2400&color=00FF41&center=true&vCenter=true&width=650&lines=;or+a+2-year+apprenticeship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2400&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+cat+/etc/profile;Ma%C3%ABlle+-+Cybersecurity+|+Offensive+Security" alt="Typing SVG" />
 
 </div>
 
@@ -17,13 +10,14 @@
 ┌──(maelle㉿kali)-[~]
 └─$ whoami
 
-+ Cybersecurity student at École 42 Paris.
++ Cybersecurity | Systems & Networks.
 +
-+ Currently looking for :
-+ a 4-to-6-month internship
-+ or a 2-year apprenticeship,
++ Seeking opportunities to contribute,
++ solve technical challenges,
++ and grow within a cybersecurity team.
 +
-+ Aiming to gain hands-on, real-world experience.
++ Interested in offensive security,
++ system administration, and network security.
 ```
 
 <br>
