@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2400&color=00FF41&center=true&vCenter=true&width=650&lines=maelle%40kali%3A~%23+cat+/etc/profile;Ma%C3%ABlle+-+Cybersecurity+|+Offensive+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1200&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=maelle%40kali%3A~%23+cat+/etc/profile;Ma%C3%ABlle+-+Cybersecurity+%7C+Systems+%26+Networks" alt="Typing SVG" />
 
 </div>
 
