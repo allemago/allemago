@@ -26,7 +26,7 @@
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗕𝗔𝗗𝗔𝗦𝗦</b> - BGP EVPN & VXLAN network simulation</summary>
+<summary><b>𝗕𝗔𝗗𝗔𝗦𝗦</b> - BGP EVPN & VXLAN network simulation</summary>
 <br>
 
 Deployed custom Docker images in GNS3 to build a simulated data center network - configured VXLAN tunnels, then layered BGP EVPN with route reflection on top for dynamic VTEP discovery. A hands-on exploration of how modern data centers handle L2 extension over L3 networks.
@@ -36,7 +36,7 @@ Deployed custom Docker images in GNS3 to build a simulated data center network -
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>Libasm</b> - Core libc functions reimplemented in x86_64 assembly</summary>
+<summary><b>Libasm</b> - Core libc functions reimplemented in x86_64 assembly</summary>
 <br>
 Reimplemented core C standard library functions (strlen, strcpy, strcmp, strdup) and system calls (read, write) directly in x86_64 assembly using NASM with Intel syntax, including proper syscall error handling and errno management.
 
@@ -45,7 +45,7 @@ Reimplemented core C standard library functions (strlen, strcpy, strcmp, strdup)
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗹𝗶𝗻𝘂𝘅</b> - Custom Linux distribution built from source</summary>
+<summary><b>𝗳𝘁_𝗹𝗶𝗻𝘂𝘅</b> - Custom Linux distribution built from source</summary>
 <br>
 
 Built a fully functional Linux distribution from scratch - compiled the kernel, configured the bootloader, filesystem, and init system by hand. A deep dive into how an OS actually boots and runs, from bare metal to a working shell.
@@ -55,7 +55,7 @@ Built a fully functional Linux distribution from scratch - compiled the kernel, 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗢𝘃𝗲𝗿𝗥𝗶𝗱𝗲</b> - Advanced exploit dev on protected binaries (x86_64, 64-bit)</summary>
+<summary><b>𝗢𝘃𝗲𝗿𝗥𝗶𝗱𝗲</b> - Advanced exploit dev on protected binaries (x86_64, 64-bit)</summary>
 <br>
 
 Advanced continuation of Rainfall: 9 additional exploitation levels on i386 ELF binaries, tackling more complex protections (stack canaries, GOT overwrites) through in-depth reverse engineering and exploit development.
@@ -65,7 +65,7 @@ Advanced continuation of Rainfall: 9 additional exploitation levels on i386 ELF 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗥𝗮𝗶𝗻𝗳𝗮𝗹𝗹</b> - Binary exploitation (x86, 32-bit)</summary>
+<summary><b>𝗥𝗮𝗶𝗻𝗳𝗮𝗹𝗹</b> - Binary exploitation (x86, 32-bit)</summary>
 <br>
 
 10 progressive binary exploitation challenges on real vulnerable SUID binaries (i386 ELF). Escalated privileges level by level through static/dynamic analysis, stack-based exploitation, and shellcoding - hands-on binary security from the ground up.
@@ -75,7 +75,7 @@ Advanced continuation of Rainfall: 9 additional exploitation levels on i386 ELF 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗕𝗼𝗼𝘁𝟮𝗿𝗼𝗼𝘁</b> - Full server compromise, two attack paths</summary>
+<summary><b>𝗕𝗼𝗼𝘁𝟮𝗿𝗼𝗼𝘁</b> - Full server compromise, two attack paths</summary>
 <br>
 
 Full offensive security exercise: compromised a target machine end-to-end using two independent attack paths, each documented in a professional technical write-up - from reconnaissance to root access.
@@ -85,7 +85,7 @@ Full offensive security exercise: compromised a target machine end-to-end using 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝘀𝘁𝗼𝗰𝗸𝗵𝗼𝗹𝗺</b> <code>[malware]</code> - Ransomware mechanics, simulated</summary>
+<summary><b>𝘀𝘁𝗼𝗰𝗸𝗵𝗼𝗹𝗺</b> <code>[malware]</code> - Ransomware mechanics, simulated</summary>
 <br>
 
 Built an educational ransomware simulation to study file encryption/decryption mechanics from the attacker's side - used to better understand what defenders are actually up against.
@@ -95,7 +95,7 @@ Built an educational ransomware simulation to study file encryption/decryption m
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗶𝗿𝗼𝗻_𝗱𝗼𝗺𝗲</b> <code>[defense]</code> - Real-time ransomware detection daemon</summary>
+<summary><b>𝗶𝗿𝗼𝗻_𝗱𝗼𝗺𝗲</b> <code>[defense]</code> - Real-time ransomware detection daemon</summary>
 <br>
 
 Designed a Linux daemon that detects ransomware-like behavior in real time, using filesystem monitoring (inotify) and entropy analysis to flag suspicious file changes before damage spreads.
@@ -105,7 +105,7 @@ Designed a Linux daemon that detects ransomware-like behavior in real time, usin
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗶𝗻𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝗿</b> <code>[network]</code> - ARP spoofing MITM, live FTP interception</summary>
+<summary><b>𝗶𝗻𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝗿</b> <code>[network]</code> - ARP spoofing MITM, live FTP interception</summary>
 <br>
 
 Executed a full ARP spoofing Man-in-the-Middle attack with live interception of FTP traffic - a practical demonstration of network-layer trust exploitation.
@@ -115,7 +115,7 @@ Executed a full ARP spoofing Man-in-the-Middle attack with live interception of 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝘃𝗮𝗰𝗰𝗶𝗻𝗲</b> <code>[web]</code> - Automated SQL injection scanner</summary>
+<summary><b>𝘃𝗮𝗰𝗰𝗶𝗻𝗲</b> <code>[web]</code> - Automated SQL injection scanner</summary>
 <br>
 
 Built a SQL injection scanner capable of database fingerprinting and automated data extraction - turning a manual pentest technique into a repeatable tool.
@@ -125,7 +125,7 @@ Built a SQL injection scanner capable of database fingerprinting and automated d
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗮𝗿𝗮𝗰𝗵𝗻𝗶𝗱𝗮</b> <code>[osint]</code> - Image crawler & EXIF leak detection</summary>
+<summary><b>𝗮𝗿𝗮𝗰𝗵𝗻𝗶𝗱𝗮</b> <code>[osint]</code> - Image crawler & EXIF leak detection</summary>
 <br>
 
 Built a recursive web/image crawler that automatically harvests images from a target and extracts hidden EXIF metadata - geolocation, device fingerprints, timestamps - showing how much data casual uploads can leak.
@@ -135,7 +135,7 @@ Built a recursive web/image crawler that automatically harvests images from a ta
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗼𝘁𝗽</b> <code>[crypto]</code> - 2FA TOTP generator, encrypted secret storage</summary>
+<summary><b>𝗳𝘁_𝗼𝘁𝗽</b> <code>[crypto]</code> - 2FA TOTP generator, encrypted secret storage</summary>
 <br>
 
 Implemented a TOTP authenticator from scratch, with secure encrypted storage of the secret key - the same mechanism behind Google Authenticator and similar 2FA apps.
@@ -145,7 +145,7 @@ Implemented a TOTP authenticator from scratch, with secure encrypted storage of 
 <br>
 
 <details>
-<summary><img src="https://api.iconify.design/material-symbols:folder-outline.svg?color=%2300FF41" width="18" height="18" align="absmiddle"/> <b>𝗳𝘁_𝗼𝗻𝗶𝗼𝗻</b> <code>[tor]</code> - Dockerized Tor hidden SSH service</summary>
+<summary><b>𝗳𝘁_𝗼𝗻𝗶𝗼𝗻</b> <code>[tor]</code> - Dockerized Tor hidden SSH service</summary>
 <br>
 
 Deployed a Tor hidden service exposing SSH access, fully containerized with Docker Compose - a practical exercise in anonymized infrastructure and reproducible deployment.
